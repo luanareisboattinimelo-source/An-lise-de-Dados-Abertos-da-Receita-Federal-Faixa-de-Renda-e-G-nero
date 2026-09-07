@@ -1,4 +1,4 @@
-# Analise de Dados Abertos da Receita Federal Faixa de Renda e Genero
+# Analise de Dados Abertos da Receita Federal Faixa de Renda e Gênero
 
 *Pergunta 1*
 
