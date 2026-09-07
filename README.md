@@ -60,6 +60,9 @@ Fórmula:=MÉDIA(B2:B7) / =MÉDIA(C2:C7)
 
 <img width="1516" height="239" alt="Capturar" src="https://github.com/user-attachments/assets/b6ae82ef-00bb-4269-ad44-3ef2567451bc" />
 
+*EXCEL*
+
+https://centropaulasouza-my.sharepoint.com/:x:/r/personal/luana_melo7_aluno_cps_sp_gov_br/Documents/atividade_dados_abertos_excel_LULU.xlsx?d=wf0ec6af2324047f19506d18f818f58d9&csf=1&web=1&e=oHRWk5
 
 
 
