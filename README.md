@@ -10,6 +10,7 @@ Fórmula :=SOMA(intervalo_declarantes)
 
 =(Declarantes_2020-Declarantes_2015)/Declarantes_2015
 
+<img width="1053" height="490" alt="Capturar" src="https://github.com/user-attachments/assets/57cfa89a-e288-474f-a262-cc3bbbf472a0" />
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
